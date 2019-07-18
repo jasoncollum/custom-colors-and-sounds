@@ -2,7 +2,7 @@ using System;
 
 namespace custom_colors_and_sounds
 {
-    public class Cessna : Vehicle
+    public class Cessna : GasPowered
     {  // Propellor light aircraft
         public double FuelCapacity { get; set; }
 

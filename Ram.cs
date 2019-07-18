@@ -2,7 +2,7 @@ using System;
 
 namespace custom_colors_and_sounds
 {
-    public class Ram : Vehicle
+    public class Ram : GasPowered
     {  // Gas powered truck
         public double FuelCapacity { get; set; }
 

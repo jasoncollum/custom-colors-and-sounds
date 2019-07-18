@@ -2,7 +2,7 @@ using System;
 
 namespace custom_colors_and_sounds
 {
-    public class Zero : Vehicle
+    public class Zero : ElectricPowered
     {  // Electric motorcycle
         public double BatteryKWh { get; set; }
 

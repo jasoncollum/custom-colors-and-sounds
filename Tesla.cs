@@ -2,7 +2,7 @@ using System;
 
 namespace custom_colors_and_sounds
 {
-    public class Tesla : Vehicle
+    public class Tesla : ElectricPowered
     {  // Electric car
         public double BatteryKWh { get; set; }
 
